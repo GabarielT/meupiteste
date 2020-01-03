@@ -1,0 +1,154 @@
+/* There are the colors of Senac */
+
+.blue_senac {
+    background-color: #004A8D !important;
+}
+
+.orange_senac {
+    background-color: #F7941D !important;
+}
+
+.light.orange.senac {
+    background-color: #FDC180 !important;
+}
+
+.blue_senac_icon {
+    color: #004A8D !important;
+}
+
+.orange_senac__icon {
+    color: #F7941D !important;
+}
+
+.light.orange.senac__icon {
+    color: #FDC180 !important;
+}
+
+
+/* /////////////////////////////////////////// */
+
+
+/* use this for change the navbar */
+
+nav {
+    color: #fff;
+    background-color: #004A8D !important;
+}
+
+.nav_client {
+    background-color: #F7941D !important;
+}
+
+
+/* /////////////////////////////////////////// */
+
+
+/* logo user menu */
+
+.logo_user_edit {
+    width: 3em !important;
+}
+
+
+/* /////////////////////////////////////////// */
+
+.img_senac_edit {
+    width: 45%;
+    border-radius: 5%;
+    opacity: 0.78;
+    /* height: 25em;*/
+    margin: 0% 0% 0% 0%;
+}
+
+
+/* /////////////////////////////////////////// */
+
+
+/* This place is used to edit the modal */
+
+
+/* .style_modal_edit {
+    width: 50%;
+    border-radius: 3.5%;
+}
+
+.modal_user {
+    right: 45%;
+}
+
+.modal_aluno {
+    left: 45%;
+}
+
+.logo_modal_edit {
+    padding: 0% 43.5% 0% 43.5%;
+} */
+
+.center_div_button {
+    text-align: center !important;
+}
+
+
+/* /////////////////////////////////////////// */
+
+.background_body_user {
+    background-image: url('../asset/img/logo/senac-logo-com-opacidade-5%.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.center_one_col {
+    margin-left: 16.5% !important;
+}
+
+
+/* .center_two_col {
+    margin: 0% 0% 0% 0% !important;
+} */
+
+.space_field {
+    margin-top: 7%;
+}
+
+.edit_legend {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.edit_form_legend {
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.space_btn {
+    margin-top: 3%;
+}
+
+h4 {
+    font-size: 2.18rem;
+    line-height: 110%;
+    margin: 1.52rem 0 2.912rem 0;
+}
+
+h5 {
+    margin: 1.52rem 0 2.912rem 0;
+}
+
+.border_field {
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    margin-bottom: 0%;
+}
+
+
+/* html {
+    color: #004A8D !important;
+} */
+
+
+/* .none_menu {
+    display: none;
+} */

@@ -1,0 +1,40 @@
+@media screen and (min-width: 320px) and (max-width: 370px) {
+    h4 {
+        font-size: 1.90rem;
+        line-height: 110%;
+        margin: 1.52rem 0 2.912rem 0;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 700px) {
+    .img_senac_edit {
+        width: 100% !important;
+        border-radius: 0% !important;
+        margin: 0% 0% 10% 0% !important;
+    }
+    .center_one_col {
+        margin: 0% 0% 0% 0% !important;
+    }
+    .center_two_col {
+        margin: 20px 0% 0% 0% !important;
+    }
+    .edit_input {
+        width: 100% !important;
+    }
+    .btn {
+        font-size: 11px;
+        height: 30px;
+        line-height: 30px;
+        margin: 20% 0% 0% 0%;
+    }
+    .edit_col_radio {
+        margin-right: 100% !important;
+    }
+}
+
+@media screen and (min-width: 701px) and (max-width: 1920px) {
+    .input_new {
+        width: 50% !important;
+        margin: 0% 25% 0% 25%!important;
+    }
+}
